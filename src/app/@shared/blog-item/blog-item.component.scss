@@ -1,0 +1,37 @@
+.card{
+  border: none;
+  box-shadow: 0 1px 6px 0 rgb(32, 33, 36, 0.001);
+
+  .card-body{
+    background-color: #fff;
+    .card-text{
+      text-align: left;
+    }
+  }
+  a{
+    color: #fff;
+    text-decoration: none;
+    background-color: #333;
+    padding: 12px;
+    transition: .4s ease-in-out;
+  }
+  a:hover{
+    background-color:#d33b33 ;
+  }
+}
+
+.over-lay {
+  width: 0%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  background-color: rgba(0, 0, 255, 0.397);
+  transition: 0.4s ease-in-out;
+  opacity: 0;
+
+}
+.card:hover .over-lay{
+width: 100%;
+}
+

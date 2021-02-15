@@ -1,0 +1,346 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": 123456
+    },
+    {
+      "id": 2,
+      "username": "safaa ali",
+      "password": 123456
+    },
+    {
+      "username": "samar-khal",
+      "password": "dfg4567",
+      "id": 7
+    },
+    {
+      "username": "safaa.aly@",
+      "password": "56rtg56",
+      "id": 8
+    },
+    {
+      "username": "abeer-sobh",
+      "password": "65rtfg",
+      "id": 9
+    },
+    {
+      "username": "safaa.aly@",
+      "password": "56tygh",
+      "id": 10
+    },
+    {
+      "username": "safaasalh@",
+      "password": "45rtfg45",
+      "id": 11
+    },
+    {
+      "username": "alaa234",
+      "password": "567",
+      "id": 12
+    },
+    {
+      "username": "doaaEsam",
+      "password": "546gh",
+      "id": 13
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "566tghg",
+      "id": 14
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "34ertty",
+      "id": 15
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "ghhyty6",
+      "id": 16
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "223334",
+      "id": 17
+    },
+    {
+      "username": "alaa2345",
+      "password": "12234fgt",
+      "id": 18
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "23wedfv",
+      "id": 19
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "343df",
+      "id": 20
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "ggggg",
+      "id": 21
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "56fgbn",
+      "id": 22
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "3erfg",
+      "id": 23
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "3erfg",
+      "id": 24
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "767rh",
+      "id": 25
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "ry64",
+      "id": 26
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "rt56gh",
+      "id": 27
+    },
+    {
+      "username": "esraasonbo",
+      "password": "56rtfgb",
+      "id": 28
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "65tgf",
+      "id": 29
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "6767dsysd",
+      "id": 30
+    },
+    {
+      "username": "safaaaly24",
+      "password": "03045uhjf",
+      "id": 31
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "676tyhg",
+      "id": 32
+    },
+    {
+      "username": "alaa234",
+      "password": "45rtfg",
+      "id": 33
+    },
+    {
+      "username": "safaa.ali@",
+      "password": "23233",
+      "id": 34
+    }
+  ],
+  "register": [
+    {
+      "id": 1,
+      "fname": "safaa",
+      "lname": "ali",
+      "password": 123456,
+      "confirmPass": 123456,
+      "email": "safaaali@",
+      "image": ""
+    },
+    {
+      "username": "ddddddd ddddddd",
+      "email": "ddd@gmail.com",
+      "password": "0305mlmlS",
+      "repassword": "0305mlmlS",
+      "id": 2
+    },
+    {
+      "username": "safaa dddd",
+      "email": "ddddddd@gmail.com",
+      "password": "234rtSD_",
+      "repassword": "234rtSD_",
+      "id": 7
+    },
+    {
+      "username": "safaa saleh",
+      "email": "safagart@gmail.com",
+      "password": "wer374H_",
+      "repassword": "wer374H_",
+      "id": 8
+    },
+    {
+      "username": "doaa esam",
+      "email": "doaaesam@gmail.com",
+      "password": "doaa123E_",
+      "repassword": "doaa123E_",
+      "id": 9
+    },
+    {
+      "username": "esraa sonbol",
+      "email": "esraasonbol@gmail.com",
+      "password": "esraaWE12_",
+      "repassword": "esraaWE12_",
+      "id": 10
+    },
+    {
+      "username": "abeer sobhi",
+      "email": "abeerSobhi@gmail.com",
+      "password": "09ghRTs_",
+      "repassword": "09ghRTs_",
+      "id": 11
+    },
+    {
+      "username": "alaa ahmed",
+      "email": "alaaAhmed@gmail.com",
+      "password": "030nmnmF_",
+      "repassword": "030nmnmF_",
+      "id": 12
+    }
+  ],
+  "products": [
+    {
+      "id": "135",
+      "category": "cat",
+      "storeName": "Bow Wow Pet Shop",
+      "kind": "Dry Food",
+      "productTitle": "1KG Vita'day CAT DRY FOOD",
+      "img": "https://cf3.s3.souqcdn.com/item/2017/02/19/22/06/43/09/item_XL_22064309_28709921.jpg",
+      "price": "69.00",
+      "description": "Delicious food for cat from the age of two months and more 29% protein is an integrated, balanced and contains all the ideal elements which affect the growth and health of the animal.Made from high-quality raw materials it contains salts private strengthen and activate the immune system ",
+      "qty": 2,
+      "totalPrice": 138
+    },
+    {
+      "id": "215",
+      "category": "cat",
+      "storeName": "Pet Yard",
+      "kind": "Cages&Caves",
+      "productTitle": "iron cage for cat (pink)",
+      "img": "https://cf1.s3.souqcdn.com/item/2019/10/21/78/66/84/09/item_XL_78668409_34434cea086ac.jpg",
+      "price": "600.00",
+      "description": "iron cage for cat (pink)",
+      "qty": 1,
+      "totalPrice": 600
+    },
+    {
+      "id": "175",
+      "category": "cat",
+      "storeName": "Pet Yard",
+      "kind": "toys",
+      "productTitle": "Cat Toy Interactive Play 2 in 1 Mouse Teaser Ball Track Chase Wand Motion Toys for cat Kitten 20.6X25.3CM",
+      "img": "https://cf2.s3.souqcdn.com/item/2018/04/20/33/43/77/41/item_XL_33437741_130831061.jpg",
+      "price": "150.00",
+      "description": "Cat Toy Interactive Play 2 in 1 Mouse Teaser Ball Track Chase Wand Motion Toys for cat Kitten 20.6X25.3CM",
+      "qty": 1,
+      "totalPrice": 150
+    },
+    {
+      "id": "121",
+      "category": "dog",
+      "storeName": "Pettix",
+      "kind": "Wet Food",
+      "productTitle": "MIGLIOR CANE Wellness system With Chicken And Turkey, 400 Gm",
+      "img": "https://cf2.s3.souqcdn.com/item/2017/04/22/22/53/82/30/item_XL_22538230_30852585.jpg",
+      "price": "40.00",
+      "description": "Meat and meat products 30% (5% chicken, turkey 5%), cereals, minerals.",
+      "qty": 1,
+      "totalPrice": 40
+    },
+    {
+      "id": "111",
+      "category": "dog",
+      "storeName": "Bow Wow Pet Shop",
+      "kind": "Wet Food",
+      "productTitle": "PRODOG Wet Food For Dogs Soft Chunks in Gravy Duck - 415g",
+      "img": "https://cf3.s3.souqcdn.com/item/2018/07/14/36/55/38/45/item_XL_36553845_143370180.jpg",
+      "price": "30.00",
+      "description": "PRODOG Wet Food For Dogs Soft Chunks in Gravy Duck - 415g ",
+      "qty": 1,
+      "totalPrice": 30
+    },
+    {
+      "id": "70",
+      "category": "cat",
+      "storeName": "Pet Yard",
+      "kind": "Dry Food",
+      "productTitle": "LindoCat",
+      "img": "https://aleef.com/media/cache/sylius_shop_product_large_thumbnail/0c/31/298375404878b375be719a7e0b36.png",
+      "price": "100.00",
+      "qty": 1,
+      "description": "PRODOG Wet Food For Dogs Soft Chunks in Gravy Duck - 415g ",
+      "totalPrice": 100
+    },
+    {
+      "id": "148",
+      "category": "cat",
+      "productTitle": "Orgo cat treats poultry liver",
+      "img": "https://cf1.s3.souqcdn.com/item/2019/10/20/78/50/87/64/item_XL_78508764_2209ef7a8898b.jpg",
+      "price": "101.00",
+      "description": "Orgo cat treats poultry liver",
+      "qty": 1,
+      "totalPrice": 101
+    }
+  ],
+  "cart": [
+    {
+      "id": "121",
+      "category": "dog",
+      "storeName": "Pettix",
+      "kind": "Wet Food",
+      "productTitle": "MIGLIOR CANE Wellness system With Chicken And Turkey, 400 Gm",
+      "img": "https://cf2.s3.souqcdn.com/item/2017/04/22/22/53/82/30/item_XL_22538230_30852585.jpg",
+      "price": "40.00",
+      "description": "Meat and meat products 30% (5% chicken, turkey 5%), cereals, minerals.",
+      "qty": 1,
+      "totalPrice": 40
+    },
+    {
+      "id": "148",
+      "category": "cat",
+      "productTitle": "Orgo cat treats poultry liver",
+      "img": "https://cf1.s3.souqcdn.com/item/2019/10/20/78/50/87/64/item_XL_78508764_2209ef7a8898b.jpg",
+      "price": "101.00",
+      "description": "Orgo cat treats poultry liver",
+      "qty": 1,
+      "totalPrice": 101
+    },
+    {
+      "id": "215",
+      "category": "cat",
+      "storeName": "Pet Yard",
+      "kind": "Cages&Caves",
+      "productTitle": "iron cage for cat (pink)",
+      "img": "https://cf1.s3.souqcdn.com/item/2019/10/21/78/66/84/09/item_XL_78668409_34434cea086ac.jpg",
+      "price": "600.00",
+      "description": "iron cage for cat (pink)",
+      "qty": 1,
+      "totalPrice": 600
+    },
+    {
+      "id": "135",
+      "category": "cat",
+      "storeName": "Bow Wow Pet Shop",
+      "kind": "Dry Food",
+      "productTitle": "1KG Vita'day CAT DRY FOOD",
+      "img": "https://cf3.s3.souqcdn.com/item/2017/02/19/22/06/43/09/item_XL_22064309_28709921.jpg",
+      "price": "69.00",
+      "description": "Delicious food for cat from the age of two months and more 29% protein is an integrated, balanced and contains all the ideal elements which affect the growth and health of the animal.Made from high-quality raw materials it contains salts private strengthen and activate the immune system ",
+      "qty": 2,
+      "totalPrice": 138
+    }
+  ]
+}

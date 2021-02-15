@@ -1,1 +1,57 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css");
+
+/* You can add global styles to this file, and also import other style files */
+@import '~ngx-owl-carousel-o/lib/styles/scss/owl.carousel';
+@import '~ngx-owl-carousel-o/lib/styles/scss/owl.theme.default';
+.form-outline .form-control{
+  min-height: auto;
+    padding: .33em .75em;
+    border: 0;
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear
+}
+
+
+.cover{
+  background-image: url('./assets/images/all-bg-title.jpg');
+  text-align: center;
+  color: #fff;
+  padding: 120px;
+  opacity: .6;
+.link-cover{
+  background: #333;
+  color: #fff;
+  padding:14px 20px;
+  text-decoration: none;
+  position: relative;
+  top: 20px;
+  opacity: 1;
+}
+a:hover{
+  background-color: #d33b33;
+}
+}
+
+body {
+   margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    height: 183%;
+    max-height: 200%;
+    text-rendering: optimizeLegibility;
+    overflow: auto;
+    touch-action: manipulation;
+    -webkit-user-drag: none;
+    -ms-content-zooming: none;
+    word-wrap: break-word;
+    overscroll-behavior-y: auto;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
+  }
+// body{
+//   overflow: auto;
+// }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

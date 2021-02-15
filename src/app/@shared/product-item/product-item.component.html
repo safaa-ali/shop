@@ -1,0 +1,22 @@
+<div class="card text-white bg-primary">
+  <div class="img-content">
+    <div class="over-lay">
+      <a class="add-btn" (click)="addCart($event)">Add To Cart</a>
+    </div>
+
+    <img
+      class="card-img-top"
+      src="{{item.img}}"
+      alt=""
+    />
+  </div>
+
+  <div class="card-body">
+    <p class="card-discription">{{item.description}}</p>
+    <div class="detailes">
+      <span class="productTitle">{{item.productTitle}}</span>
+      <span>{{item.price}}</span>
+
+    </div>
+  </div>
+</div>

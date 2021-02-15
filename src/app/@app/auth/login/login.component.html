@@ -1,0 +1,42 @@
+
+
+ <link
+  href="https://fonts.googleapis.com/css?family=Ubuntu:500"
+  rel="stylesheet"
+  type="text/css"
+/>
+
+<div class="login">
+  <div class="login-header">
+    <h1>Login</h1>
+  </div>
+  <div class="login-form" >
+    <form #myForm="ngForm" (ngSubmit)="onSubmit(myForm)" name="form">
+      <h3>Username:</h3>
+      <input type="text" placeholder="Username" minlength="3" maxlength="10" required name="username"  #username="ngModel" pattern="[(a-z0-9)|_]"  [(ngModel)]="user.username"/><br />
+      <div *ngIf="myForm.submitted && username.invalid" class="error-handle">
+        <div *ngIf="username.errors.required">
+          username is required
+        </div>
+        <div *ngIf="username.errors.pattern&&username.errors.maxlength&&username.errors.minlength">
+          username must like SafaaAli_
+        </div>
+      </div>
+
+      <h3>Password:</h3>
+      <input type="password" pattern="[(a-z0-9)]" minlength="4" maxlength="14" placeholder="Password" name="password" #password="ngModel" required [(ngModel)]="user.password"/>
+      <div *ngIf="myForm.submitted && password.invalid" class="error-handle">
+        <div *ngIf="password.errors.required">Last Name is required</div>
+        <div *ngIf="password.errors.pattern&&password.errors.maxlength&&password.errors.minlength">
+          password must like 123ref
+        </div>
+    </div>
+
+      <br />
+      <button type="submit" class="submit">Login</button>
+    </form>
+
+    <br />
+    <a class="sign-up" (click)="register()">Sign Up!</a>
+  </div>
+</div>

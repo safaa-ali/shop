@@ -1,0 +1,82 @@
+.nav-item{
+  cursor: pointer;
+  position: relative;
+  top: 10px;
+}
+.nav-item.dropdown-item{
+top:0px;
+right: 21px;
+
+}
+.example-form {
+  margin-right: 110px;
+}
+.navbar{
+  background-color: #f8f9fa;
+  box-shadow: 0 1px 6px 0 rgb(32, 33, 36, 0.001);
+
+  a{
+    color: #333;
+    font-weight: 400;
+    text-transform: capitalize;
+    padding-left: 16px;
+    font-size: 20px;
+
+  }
+  a:hover{
+    color:#d33b33
+  }
+  .navbar-brand{
+color: #d33b33;
+font-size: 30px;
+text-transform: uppercase;
+font-weight: 500;
+
+  }
+
+}
+::ng-deep{
+  .mat-select-arrow{
+    position: relative;
+    left: 13px;
+    bottom: 26px;
+    }
+  .mat-icon.mat-icon-inline{
+    font-size: 24px;
+  }
+  .mat-menu-panel
+  {
+    position: relative;
+    top: 10px;
+    left: 38px;
+  }
+}
+.mat-icon.mat-icon-inline{
+  font-size: 20px;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+.material-icons.shoping-cart{
+  font-size: 40px;
+  cursor: pointer;
+}
+ .arrow_back{
+  position: relative;
+  top: 7px;
+  right: 10px;
+}
+ .arrow_forward{
+  position: relative;
+  top: 7px;
+  left: 10px;
+}
